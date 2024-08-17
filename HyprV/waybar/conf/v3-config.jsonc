@@ -10,8 +10,8 @@
         "custom/launch_wofi",
         "custom/power_btn",
         "custom/lock_screen",
-        "wlr/workspaces",
-        "wlr/taskbar"
+        "hyprland/workspaces",
+        "hyprland/taskbar"
     ],
     "modules-right": [
         "cpu",
@@ -56,7 +56,7 @@
         "tooltip": false
     },
 
-    "wlr/workspaces": {
+    "hyprland/workspaces": {
         "disable-scroll": true,
         "all-outputs": true,
         "on-click": "activate",
@@ -74,7 +74,7 @@
         }
     },
 
-    "wlr/taskbar": {
+    "hyprland/taskbar": {
         "format": "{icon}{name}",
         "icon-size": 16,
         "all-outputs": true,
