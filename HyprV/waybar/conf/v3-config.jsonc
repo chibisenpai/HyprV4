@@ -11,7 +11,7 @@
         "custom/power_btn",
         "custom/lock_screen",
         "hyprland/workspaces",
-        "hyprland/taskbar"
+        "wlr/taskbar"
     ],
     "modules-right": [
         "cpu",
@@ -74,7 +74,7 @@
         }
     },
 
-    "hyprland/taskbar": {
+    "wlr/taskbar": {
         "format": "{icon}{name}",
         "icon-size": 16,
         "all-outputs": true,
